@@ -10,14 +10,14 @@ Welcome to my GitHub profile! I'm a passionate frontend developer who loves buil
 - 🌱 I’m currently learning: Backend development (Node.js, Express, MongoDB)  
 - 👯 I’m looking to collaborate on: Frontend and full-stack projects  
 - 💬 Ask me about: React, JavaScript, UI development, or anything frontend!  
-- 📫 How to reach me: [Add your email/LinkedIn here]  
+- 📫 How to reach me: https://www.linkedin.com/in/abdullah-abd-5a6688166/  
 - ⚡ Fun fact: I enjoy turning complex problems into simple, beautiful interfaces.
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS  
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, MUI  
 - **Tools & Platforms:** Git, GitHub, VS Code, Figma  
 - **Learning:** Node.js, Express.js, MongoDB  
 
@@ -29,15 +29,17 @@ Welcome to my GitHub profile! I'm a passionate frontend developer who loves buil
   <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-abd&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-abd&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-abd&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-- 🌐 Portfolio: [Add your link here]  
-- 💼 LinkedIn: [Add your LinkedIn here]  
-- ✉️ Email: [Add your email here]
+- 🌐 Portfolio: https://www.crio.do/learn/portfolio/abdullah262001/ 
+- 💼 LinkedIn: https://www.linkedin.com/in/abdullah-abd-5a6688166/  
+- ✉️ Email: abdullah262001@gmail.com
 
 
 <!--
