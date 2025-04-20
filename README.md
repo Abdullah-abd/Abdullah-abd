@@ -50,9 +50,10 @@ Welcome to my GitHub profile! I'm a passionate frontend developer who loves buil
 
 ### 📫 Connect with Me
 
-- 🌐 Portfolio: https://www.crio.do/learn/portfolio/abdullah262001/ 
-- 💼 LinkedIn: https://www.linkedin.com/in/abdullah-abd-5a6688166/  
-- ✉️ Email: abdullah262001@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300A6A6?logo=crio&logoColor=white)](https://www.crio.do/learn/portfolio/abdullah262001/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-abd-5a6688166/)
+[![Email](https://img.shields.io/badge/Email-%23EA4335?logo=gmail&logoColor=white)](mailto:abdullah262001@gmail.com)
+
 
 
 <!--
